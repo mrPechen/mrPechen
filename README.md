@@ -1,4 +1,4 @@
-### <h1 align=center>Hi there, I am Dmitry Pechenkin 👋</h1>
+### <h1 align=center>Hi there, I am Dmitry Pechenkin 👋 ![](https://komarev.com/ghpvc/?username=mrPechen)</h1>
 # 💻 My Stack:
 ||||
 |----------|------------|------------|
@@ -7,6 +7,8 @@
 |Database|<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" /> <img height="40" width="40" src="https://cdn.simpleicons.org/alchemy/D0FF53FF" /> <img height="40" width="40" src="https://cdn.simpleicons.org/redis" /> <img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq" />|PostgreSQL, SQL Alchemy, Reis, RabbitMQ|
 |Others|<img height="40" width="40" src="https://cdn.simpleicons.org/docker" /> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />|Docker, Linux, Git|
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 
 <!--
