@@ -8,6 +8,9 @@
 |Others|<img height="40" width="40" src="https://cdn.simpleicons.org/docker" /> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />|Docker, Linux, Git|
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/mrpechen?border=0&radius=20)
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 
